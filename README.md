@@ -24,7 +24,7 @@ An eCommerce system with customer and admin applications.
 - JWT-based authentication  
 - Product management, cart, and order system  
 
-### 🎫 Cricket – Support Ticketing System [https://github.com/Plickiper/Cricket]
+### 🎫 [Cricket – Support Ticketing System](https://github.com/Plickiper/Cricket)
 A desktop-based ticketing system for managing support requests.  
 - JavaFX desktop application  
 - REST API with Spring Boot  
