@@ -37,4 +37,4 @@ A desktop-based ticketing system for managing support requests.
 - Docker, Git, Postman  
 
 ## 📫 Contact
-- Email: kjcpecenio@mymail.mapua.edu.ph
+- Email: kjpecenio@gmail.com
