@@ -11,20 +11,20 @@ I build academic and personal projects to improve my understanding of software d
 
 ## 🚀 Projects
 
-### 🏥 St. Lukas – Healthcare Management System
+### 🏥 St. Lukas – Healthcare Management System [https://github.com/Plickiper/StLukas]
 A healthcare platform with multiple backend services and mobile applications.  
 - Spring Boot microservices architecture  
 - Apache Kafka for communication  
 - Android apps for patients and staff  
 - Dockerized services and databases  
 
-### 🛒 Sun Racing Spirit – eCommerce Platform
+### 🛒 Sun Racing Spirit – eCommerce Platform [https://github.com/Plickiper/srsph]
 An eCommerce system with customer and admin applications.  
 - Angular frontend and Spring Boot backend  
 - JWT-based authentication  
 - Product management, cart, and order system  
 
-### 🎫 Cricket – Support Ticketing System
+### 🎫 Cricket – Support Ticketing System [https://github.com/Plickiper/Cricket]
 A desktop-based ticketing system for managing support requests.  
 - JavaFX desktop application  
 - REST API with Spring Boot  
