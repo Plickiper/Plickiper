@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Kurt 👋
 
-<!--
-**Plickiper/Plickiper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Mapua University Makati.  
+I build academic and personal projects to improve my understanding of software development.
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- Interested in backend and full-stack development  
+- Experience working with Java, Spring Boot, and MySQL  
+- Familiar with building REST APIs and basic system design  
+- Continuously learning through hands-on projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🏥 St. Lukas – Healthcare Management System
+A healthcare platform with multiple backend services and mobile applications.  
+- Spring Boot microservices architecture  
+- Apache Kafka for communication  
+- Android apps for patients and staff  
+- Dockerized services and databases  
+
+### 🛒 Sun Racing Spirit – eCommerce Platform
+An eCommerce system with customer and admin applications.  
+- Angular frontend and Spring Boot backend  
+- JWT-based authentication  
+- Product management, cart, and order system  
+
+### 🎫 Cricket – Support Ticketing System
+A desktop-based ticketing system for managing support requests.  
+- JavaFX desktop application  
+- REST API with Spring Boot  
+- Dockerized backend and database  
+
+## 🛠️ Tech Stack
+- Java, TypeScript, Kotlin  
+- Spring Boot, Angular, JavaFX  
+- MySQL  
+- Docker, Git, Postman  
+
+## 📫 Contact
+- Email: kjcpecenio@mymail.mapua.edu.ph
