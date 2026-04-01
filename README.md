@@ -3,13 +3,13 @@
 I'm a Computer Science student at Mapua University Makati.  
 I build academic and personal projects to improve my understanding of software development.
 
-## About Me
+## 👨 About Me
 - Interested in backend and full-stack development  
 - Experience working with Java, Spring Boot, and MySQL  
 - Familiar with building REST APIs and basic system design  
 - Continuously learning through hands-on projects  
 
-## Projects
+## ⭐ Projects
 
 ### [St. Lukas – Healthcare Management System](https://github.com/Plickiper/StLukas)
 A healthcare platform with multiple backend services and mobile applications.  
@@ -30,11 +30,11 @@ A desktop-based ticketing system for managing support requests.
 - REST API with Spring Boot  
 - Dockerized backend and database  
 
-## Tech Stack
+## 💻 Tech Stack
 - Java, TypeScript, Kotlin  
 - Spring Boot, Angular, JavaFX  
 - MySQL  
 - Docker, Git, Postman  
 
-## Contact
+## 📥 Contact
 - Email: kjpecenio@gmail.com
