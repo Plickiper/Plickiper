@@ -28,12 +28,20 @@ An eCommerce system with customer and admin applications.
 A desktop-based ticketing system for managing support requests.  
 - JavaFX desktop application  
 - REST API with Spring Boot  
-- Dockerized backend and database  
+- Dockerized backend and database
+ 
+### [Guarden – Environmental Reporting Platform](https://github.com/Plickiper/Guarden)
+A modern web application for reporting environmental and city ordinance violations.  
+- React + TypeScript frontend with Tailwind CSS  
+- Supabase (Auth, PostgreSQL, Storage) as backend  
+- Interactive map reporting using React Leaflet  
+- Image evidence upload and real-time status tracking  
+- Admin dashboard with filtering and export tools  
 
 ## Tech Stack
 - Java, TypeScript, Kotlin  
-- Spring Boot, Angular, JavaFX  
-- MySQL  
+- Spring Boot, Angular, React, JavaFX  
+- MySQL, PostgreSQL
 - Docker, Git, Postman  
 
 ## Contact
